@@ -1,6 +1,6 @@
 # Laporan Praktikum Kecerdasan Buatan - Pertemuan 8
 
-**Nama:** Ermas muhammad Syatafa  
+**Nama:** Ermas Muhammad Syatafa  
 **NIM:** H1D024030  
 **Kelas:** Praktikum Kecerdasan Buatan (F)  
 
